@@ -1,10 +1,10 @@
-example = "I'm a string" # The variable example is holding the string "I'm a string"
-a = 3 # The variable a is holding integer 3
-b = 4.0 # The variable b is holding float 4.0
-c = True # The variable c is holding boolean True
-d = False # The variable d is holding boolean value False
-e = "Hey!" # The variable e is holding string "Hey!"
-f = None # the variable f is holding an empty value
-age = 32 # the variable age is holding an integer 32
-name = "insert your name here" # The variable name is holding the string "insert your name here"
-instrument = "Insert your instrument here" # The variable name is holding the string "insert your instrument here" 
+'''
+A variable name must start with a letter or an underscore
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _)
+Variable names are case sensitive (AGE age Age are three variables)
+a variable name cannot be any of the python keywords
+
+
+$$$Variable = "Bad"
+'''
